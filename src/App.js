@@ -1,5 +1,5 @@
 import './App.css'
-import './src/components/CardItem/index.js'
+import './components/CardItem/index.js'
 
 const cardsList = [
   {
