@@ -7,7 +7,7 @@ const CardItem=(props)=>{
 }
    
 return(
-    <li className={`${className}'>
+    <li className={`${className}`>
         <div>
             <h1 className="head">{title}</h1>
             <p className="para">{description}</p>
